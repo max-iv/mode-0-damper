@@ -1,0 +1,28 @@
+{
+  "name": "yggdrasilview-node-red-empty",
+  "version": "1.0.0",
+  "description": "empty container for node-red",
+  "main": "node_modules/node-red/red.js -s ./settings.js -u ./",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yggdrasilView/yggdrasilview-node-red-empty.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "David McGinnis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yggdrasilView/yggdrasilview-node-red-empty/issues"
+  },
+  "homepage": "https://github.com/yggdrasilView/yggdrasilview-node-red-empty#readme",
+  "dependencies": {
+    "node-red": "^0.18.4",
+    "node-red-contrib-socketio": "^1.0.5",
+    "node-red-dashboard": "^2.8.2",
+    "node-red-node-serialport": "^0.6.7"
+  }
+}
