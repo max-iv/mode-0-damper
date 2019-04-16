@@ -204,6 +204,8 @@
         "birthTopic": "",
         "birthQos": "0",
         "birthPayload": "",
+        "closeTopic": "",
+        "closePayload": "",
         "willTopic": "",
         "willQos": "0",
         "willPayload": ""
