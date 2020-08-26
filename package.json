@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/yggdrasilView/yggdrasilview-node-red-empty#readme",
   "dependencies": {
-    "node-red": "^0.19.6",
+    "node-red": "^0.20.8",
     "node-red-contrib-socketio": "^1.0.6",
     "node-red-dashboard": "^2.14.0",
     "node-red-node-serialport": "^0.6.8"
